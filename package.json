@@ -3,11 +3,10 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "dev": "export NODE_OPTIONS=--openssl-legacy-provider && nuxt",
-    "build": "export NODE_OPTIONS=--openssl-legacy-provider && nuxt build",
-    "start": "export NODE_OPTIONS=--openssl-legacy-provider && nuxt start",
-    "generate": "export NODE_OPTIONS=--openssl-legacy-provider && nuxt generate",
-    "deploy": "push-dir --dir=dist --branch=gh-pages --cleanup"
+    "dev": " nuxt",
+    "build": "  nuxt build",
+    "start": " nuxt start",
+    "generate": " nuxt generate"
   },
   "dependencies": {
     "@braid/vue-formulate": "^2.5.3",
