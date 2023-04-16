@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/perfil/procesarcompra", {data:[{}],fetch:{},mutations:[]});

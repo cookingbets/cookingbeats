@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/perfil/mercadopago", {data:[{}],fetch:{},mutations:[]});
