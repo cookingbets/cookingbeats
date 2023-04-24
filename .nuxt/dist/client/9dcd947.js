@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[48],{594:function(n,e,o){"use strict";o.r(e);o(102);var t={name:"vendedorLoad",mounted:function(){window.close()}},c=o(54),component=Object(c.a)(t,(function(){return(0,this._self._c)("div")}),[],!1,null,null,null);e.default=component.exports}}]);

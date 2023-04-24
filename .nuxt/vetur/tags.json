@@ -1,0 +1,77 @@
+{
+  "Footer": {
+    "description": "Auto imported from components/footer.vue"
+  },
+  "Menu": {
+    "description": "Auto imported from components/menu.vue"
+  },
+  "AlbumesAlbumheader": {
+    "description": "Auto imported from components/Albumes/albumheader.vue"
+  },
+  "AlbumesAlbumitem": {
+    "description": "Auto imported from components/Albumes/albumitem.vue"
+  },
+  "ComponentsCookBoton": {
+    "description": "Auto imported from components/Components-cook/boton.vue"
+  },
+  "ComprasCompraItem": {
+    "description": "Auto imported from components/Compras/CompraItem.vue"
+  },
+  "FilesModalFilesMinuaturas": {
+    "description": "Auto imported from components/Files/ModalFilesMinuaturas.vue"
+  },
+  "MercadopagoCarga": {
+    "description": "Auto imported from components/Mercadopago/carga.vue"
+  },
+  "MercadopagoPago": {
+    "description": "Auto imported from components/Mercadopago/pago.vue"
+  },
+  "InstrumentalesAgregarInstrumental": {
+    "description": "Auto imported from components/Instrumentales/_agregarInstrumental.vue"
+  },
+  "InstrumentalesAgregarLiciencia": {
+    "description": "Auto imported from components/Instrumentales/_agregarLiciencia.vue"
+  },
+  "InstrumentalesCardLicencia": {
+    "description": "Auto imported from components/Instrumentales/_cardLicencia.vue"
+  },
+  "InstrumentalesCardinstrumental": {
+    "description": "Auto imported from components/Instrumentales/_cardinstrumental.vue"
+  },
+  "InstrumentalesIntrumentalcargado": {
+    "description": "Auto imported from components/Instrumentales/_intrumentalcargado.vue"
+  },
+  "InstrumentalesReproductorCard": {
+    "description": "Auto imported from components/Instrumentales/_reproductorCard.vue"
+  },
+  "InstrumentalesInstrumental": {
+    "description": "Auto imported from components/Instrumentales/instrumental.vue"
+  },
+  "InstrumentalesInstrumentalEdit": {
+    "description": "Auto imported from components/Instrumentales/instrumentalEdit.vue"
+  },
+  "InstrumentalesPaginador": {
+    "description": "Auto imported from components/Instrumentales/paginador.vue"
+  },
+  "InstrumentalesReproductor": {
+    "description": "Auto imported from components/Instrumentales/reproductor.vue"
+  },
+  "PerfilContrasenia": {
+    "description": "Auto imported from components/Perfil/contrasenia.vue"
+  },
+  "PerfilHeader": {
+    "description": "Auto imported from components/Perfil/header.vue"
+  },
+  "PerfilInstrumental": {
+    "description": "Auto imported from components/Perfil/instrumental.vue"
+  },
+  "PerfilNombre": {
+    "description": "Auto imported from components/Perfil/nombre.vue"
+  },
+  "PerfilValidar": {
+    "description": "Auto imported from components/Perfil/validar.vue"
+  },
+  "UtilidadesChipBar": {
+    "description": "Auto imported from components/Utilidades/chip-bar.vue"
+  }
+}

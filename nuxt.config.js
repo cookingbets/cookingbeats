@@ -142,11 +142,11 @@ export default {
   },
 
   axios: {
-    baseURL: process.env.BACKEND_URL || "http://localhost:3000/",
+    baseURL: "http://89.116.214.100:3000/",
   },
   target: "static",
   router:{
-    base: '/cookingbeats-nuxt/'
+    base: '/'
   },
   proxy: {
     "/api/": {

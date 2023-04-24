@@ -1,0 +1,149 @@
+[
+  {
+    "name": "albumes",
+    "path": "/albumes",
+    "component": "/home/franco/proyectos/cooking/cookingbeats/pages/albumes/index.vue",
+    "chunkName": "pages/albumes/index",
+    "_name": "_48a5652a"
+  },
+  {
+    "name": "instrumentales",
+    "path": "/instrumentales",
+    "component": "/home/franco/proyectos/cooking/cookingbeats/pages/instrumentales.vue",
+    "chunkName": "pages/instrumentales",
+    "_name": "_1b490066"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "/home/franco/proyectos/cooking/cookingbeats/pages/login.vue",
+    "chunkName": "pages/login",
+    "_name": "_43950b1a"
+  },
+  {
+    "name": "perfil",
+    "path": "/perfil",
+    "component": "/home/franco/proyectos/cooking/cookingbeats/pages/perfil/index.vue",
+    "chunkName": "pages/perfil/index",
+    "_name": "_68b68e96"
+  },
+  {
+    "name": "register",
+    "path": "/register",
+    "component": "/home/franco/proyectos/cooking/cookingbeats/pages/register.vue",
+    "chunkName": "pages/register",
+    "_name": "_6fa5a589"
+  },
+  {
+    "name": "perfil-albumes",
+    "path": "/perfil/albumes",
+    "component": "/home/franco/proyectos/cooking/cookingbeats/pages/perfil/albumes.vue",
+    "chunkName": "pages/perfil/albumes",
+    "_name": "_52d69700"
+  },
+  {
+    "name": "perfil-compras",
+    "path": "/perfil/compras",
+    "component": "/home/franco/proyectos/cooking/cookingbeats/pages/perfil/compras.vue",
+    "chunkName": "pages/perfil/compras",
+    "_name": "_9a9a0b50"
+  },
+  {
+    "name": "perfil-configuracion",
+    "path": "/perfil/configuracion",
+    "component": "/home/franco/proyectos/cooking/cookingbeats/pages/perfil/configuracion.vue",
+    "chunkName": "pages/perfil/configuracion",
+    "_name": "_2c1645ec"
+  },
+  {
+    "name": "perfil-instrumental",
+    "path": "/perfil/instrumental",
+    "component": "/home/franco/proyectos/cooking/cookingbeats/pages/perfil/instrumental/index.vue",
+    "chunkName": "pages/perfil/instrumental/index",
+    "_name": "_cdb412fc"
+  },
+  {
+    "name": "perfil-me_gusta",
+    "path": "/perfil/me_gusta",
+    "component": "/home/franco/proyectos/cooking/cookingbeats/pages/perfil/me_gusta.vue",
+    "chunkName": "pages/perfil/me_gusta",
+    "_name": "_fd0f9010"
+  },
+  {
+    "name": "perfil-mercadopago",
+    "path": "/perfil/mercadopago",
+    "component": "/home/franco/proyectos/cooking/cookingbeats/pages/perfil/mercadopago.vue",
+    "chunkName": "pages/perfil/mercadopago",
+    "_name": "_6f157c02"
+  },
+  {
+    "name": "perfil-procesarcompra",
+    "path": "/perfil/procesarcompra",
+    "component": "/home/franco/proyectos/cooking/cookingbeats/pages/perfil/procesarcompra.vue",
+    "chunkName": "pages/perfil/procesarcompra",
+    "_name": "_46e5d2c0"
+  },
+  {
+    "name": "perfil-ventas",
+    "path": "/perfil/ventas",
+    "component": "/home/franco/proyectos/cooking/cookingbeats/pages/perfil/ventas.vue",
+    "chunkName": "pages/perfil/ventas",
+    "_name": "_420acc58"
+  },
+  {
+    "name": "perfil-instrumental-add",
+    "path": "/perfil/instrumental/add",
+    "component": "/home/franco/proyectos/cooking/cookingbeats/pages/perfil/instrumental/add.vue",
+    "chunkName": "pages/perfil/instrumental/add",
+    "_name": "_14a7ecd1"
+  },
+  {
+    "name": "perfil-instrumental-edit-id",
+    "path": "/perfil/instrumental/edit/:id?",
+    "component": "/home/franco/proyectos/cooking/cookingbeats/pages/perfil/instrumental/edit/_id.vue",
+    "chunkName": "pages/perfil/instrumental/edit/_id",
+    "_name": "_0fa96596"
+  },
+  {
+    "name": "albumes-id",
+    "path": "/albumes/:id",
+    "component": "/home/franco/proyectos/cooking/cookingbeats/pages/albumes/_id.vue",
+    "chunkName": "pages/albumes/_id",
+    "_name": "_e482abdc"
+  },
+  {
+    "name": "buy-id",
+    "path": "/buy/:id?",
+    "component": "/home/franco/proyectos/cooking/cookingbeats/pages/buy/_id.vue",
+    "chunkName": "pages/buy/_id",
+    "_name": "_3d68cd3b"
+  },
+  {
+    "name": "compra-id",
+    "path": "/compra/:id?",
+    "component": "/home/franco/proyectos/cooking/cookingbeats/pages/compra/_id.vue",
+    "chunkName": "pages/compra/_id",
+    "_name": "_09f95e0f"
+  },
+  {
+    "name": "instrumental-id",
+    "path": "/instrumental/:id?",
+    "component": "/home/franco/proyectos/cooking/cookingbeats/pages/instrumental/_id.vue",
+    "chunkName": "pages/instrumental/_id",
+    "_name": "_75c2973a"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/franco/proyectos/cooking/cookingbeats/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_148dd75c"
+  },
+  {
+    "name": "id",
+    "path": "/:id",
+    "component": "/home/franco/proyectos/cooking/cookingbeats/pages/_id.vue",
+    "chunkName": "pages/_id",
+    "_name": "_b5bbfe78"
+  }
+]
